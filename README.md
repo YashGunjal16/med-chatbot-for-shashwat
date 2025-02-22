@@ -50,11 +50,7 @@ To run the Disease Prediction and Medical Recommendation System:
    ```bash
    http://localhost:5000
 
-## Team Members
 
-- Tanmay Pramanick - A20541164
-- Kunal Rajput - A20540912
-- Soham Sonar - A20541266
 
 ## Project Files Overview
 
